@@ -1,9 +1,9 @@
-package range;
+package ranges
 
 class SimpleRange{
 
     void runMethods(){
-        println('SimpleRange.runMethods ...')
+        println('### SimpleRange.runMethods ...')
         test1()
         test2()
     }
