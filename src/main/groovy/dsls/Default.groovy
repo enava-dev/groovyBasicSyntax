@@ -1,0 +1,5 @@
+package dsls
+
+class Default {
+    
+}

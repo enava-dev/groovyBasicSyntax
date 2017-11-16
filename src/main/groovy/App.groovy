@@ -6,15 +6,19 @@ import getterSetter.Point
  */
 class App {
 
+
     static void main(String[] args) {
         println('### App.main ....')
 
+        
         SimpleRange sr = new SimpleRange()
         sr.runMethods()
 
         Point point = new Point()
-        point.x = 5
-        point.y = 6
+        point.x = 15
+        point.y = 16
         point.sum()
-    }
+        
+
+   }
 }

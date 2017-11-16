@@ -1,0 +1,5 @@
+package closures
+
+class Default {
+    
+}
