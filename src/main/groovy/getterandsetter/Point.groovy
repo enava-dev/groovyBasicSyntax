@@ -1,4 +1,4 @@
-package getterSetter
+package com.enh.learninggroovy.getterandsetter
 
 class Point{
   int x

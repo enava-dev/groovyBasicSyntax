@@ -1,5 +1,5 @@
 import spock.lang.Specification
-import ranges.RangeImp
+import com.enh.learninggroovy.range.RangeImp
 
 class RangeTest extends Specification{
 

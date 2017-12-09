@@ -1,4 +1,4 @@
-package json
+package com.enh.learninggroovy.json
 
 class Default {
     

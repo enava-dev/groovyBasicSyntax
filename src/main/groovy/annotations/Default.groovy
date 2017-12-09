@@ -1,5 +1,0 @@
-package annotations         
-
-class Default {
-    
-}

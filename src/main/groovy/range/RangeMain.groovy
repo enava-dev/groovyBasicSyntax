@@ -1,4 +1,4 @@
-package ranges
+package com.enh.learninggroovy.range
 
 class RangeMain{
 
