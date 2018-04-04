@@ -28,5 +28,5 @@ dependencies {
 }
 
 // Define the main class for the application
-mainClassName = 'com.enh.learninggroovy.map.MapMain'
+mainClassName = 'com.enh.learninggroovy.strings.StringMain'
 
